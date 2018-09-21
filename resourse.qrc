@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>numpad_icon.png</file>
+        <file>Icons/backspace.svg</file>
+    </qresource>
+</RCC>
