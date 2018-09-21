@@ -1,6 +1,8 @@
 # NumpadEnhanced
 [Fork of Numpad by abtimal on SourceForge](https://sourceforge.net/projects/numpad-emulator/)
 
+![Demo Gif](demo.gif)
+
 # My Changes:
 * Changed default color scheme to match the Windows 10 On-Screen Keyboard.
 * Changed Button.h to inherit from QPushButton instead of QLabel and cleaned up related code
